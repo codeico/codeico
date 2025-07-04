@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm [Your Name]!
+# 💫 Hi there, I'm BANGCODE!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=Fullstack+Developer;Building+Digital+Solutions;Frontend+%2B+Backend+Expert;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
